@@ -1,0 +1,2 @@
+# SETTINGMIKROTIK
+tugas menyeting mikrotik
